@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Youssef Gamal</h1>
 <h3 align="center">I'm a Software Enterprise Integration & Backend Engineer from Egypt</h3>
 
-- 🌱 I’m currently learning **Enterprise Integration Tools as ( IBM API Connect , IBM APP Connect ) & Spring Framework**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Software+Engineer;Nice+to+meet+you...)](https://git.io/typing-svg)
 
+- 🌱 I’m currently learning **Enterprise Integration Tools as ( IBM API Connect , IBM APP Connect ) & Spring Framework**
+- 🎓 &nbsp; I’m a grad from ASU in Egypt
+- 💼 &nbsp; Software Engineer.
 - 📫 How to reach me **youssefgamalmohamedelsayed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
