@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-gamal-b97245217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-gamal-b97245217/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17389825/youssef-gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17389825/youssef-gamal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/youssefgamalmohamedelsayed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/youssefgamalmohamedelsayed/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/youssef-gamal-b97245217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-gamal-b97245217" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17389825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17389825" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/youssefgamalmohamedelsayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssefgamalmohamedelsayed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
